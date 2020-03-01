@@ -4,6 +4,6 @@ Flask-Login==0.4.1
 SQLAlchemy==1.2.7
 Werkzeug==0.15.3
 asn1crypto==0.24.0
-cryptography==2.2.2
+cryptography==2.3
 pycrypto==2.6.1
 pycryptodome==3.8.1
